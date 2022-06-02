@@ -38,7 +38,7 @@ My strengths:
 - CSS
 - JS Basics
 - Version control: Git (remote service GitHub)
-- Windows OS, Linux(Garuda Gnome, Mint, KDE-Neon, Kali, Whonix), MacOS
+- Windows OS, Linux (Garuda Gnome, Mint, KDE-Neon, Kali, Whonix, Manjaro), MacOS
 - Editors: Sublime, VSCode,
 - Design (Adobe Photoshop, CorelDraw, Krita)
 - Sound design (Ableton Live)
