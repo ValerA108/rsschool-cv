@@ -29,3 +29,33 @@ My strengths:
 - Assiduity and learnability
 - I find it easy to communication large customers
 - I try to develop 1-2 new skills per year
+
+## Skills
+
+---
+
+- HTML
+- CSS
+- JS Basics
+- Version control: Git (remote service GitHub)
+- Windows OS, Linux(Garuda Gnome, Mint, KDE-Neon, Kali, Whonix), MacOS
+- Editors: Sublime, VSCode,
+- Adobe Photoshop, CorelDraw, Krita, Ableton Live
+
+## Code examples
+
+---
+
+```javascript
+function multiply(a, b) {
+  return a * b;
+}
+```
+
+## Education
+
+---
+
+- Minsk State Energy College
+
+- Belarusian National Technical University
