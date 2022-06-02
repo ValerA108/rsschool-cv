@@ -40,7 +40,8 @@ My strengths:
 - Version control: Git (remote service GitHub)
 - Windows OS, Linux(Garuda Gnome, Mint, KDE-Neon, Kali, Whonix), MacOS
 - Editors: Sublime, VSCode,
-- Adobe Photoshop, CorelDraw, Krita, Ableton Live
+- Design (Adobe Photoshop, CorelDraw, Krita)
+- Sound design (Ableton Live)
 
 ## Code examples
 
@@ -59,3 +60,18 @@ function multiply(a, b) {
 - Minsk State Energy College
 
 - Belarusian National Technical University
+
+## Experience
+
+---
+
+[My CV-page](https://valera108.github.io/rsschool-cv/cv)
+
+## Languages
+
+---
+
+- Russian
+- Polish
+- English - A2 (While working for a transportation company I communicated with customers from Europe. Business correspondence, documentation, customs clearance of cargo, invoice, packing list)
+- Test-english.com - B1
