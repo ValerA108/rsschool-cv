@@ -94,7 +94,8 @@ export function productTabsSwitcher() {
 
 ---
 
-Advertising agency "Belorg S", CEO.
+- jenty-spedition, project logistics manager
+- Advertising agency "Belorg S", CEO.
 
 [My CV-page](https://valera108.github.io/rsschool-cv/cv)
 
