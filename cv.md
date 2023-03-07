@@ -48,8 +48,37 @@ My strengths:
 ---
 
 ```javascript
-function multiply(a, b) {
-  return a * b;
+export function productTabsSwitcher() {
+  const tabSection = document.querySelector(".product-tabs");
+
+  const productTabs = document.querySelectorAll(".product-tabs__top-item");
+  const productContent = document.querySelectorAll(
+    ".product-tabs__content-item"
+  );
+
+  if (tabSection) {
+    productTabs.forEach(onTabClick);
+    function onTabClick(item) {
+      item.addEventListener("click", () => {
+        let currTabBtn = item;
+        let tabId = currTabBtn.getAttribute("href");
+        let currTab = document.querySelector(tabId);
+
+        if (!currTabBtn.classList.contains("active")) {
+          productTabs.forEach(function (item) {
+            item.classList.remove("active");
+          });
+          productContent.forEach(function (item) {
+            item.classList.remove("active");
+          });
+
+          currTabBtn.classList.add("active");
+          currTab.classList.add("active");
+        }
+      });
+    }
+    document.querySelector(".product-tabs__top-item:nth-child(3)").click();
+  }
 }
 ```
 
